@@ -1,6 +1,6 @@
 // Minimaler Service Worker fuer den Technik-Test (AP-00).
 // VERSION von Hand erhoehen, um den Update-Test auszuloesen (siehe Testanleitung).
-const VERSION = '1';
+const VERSION = '2';
 const CACHE_NAME = 'soul-spike-' + VERSION;
 
 const PRECACHE = [
